@@ -1,0 +1,9 @@
+"loadlist": [
+    {
+      "name": "Github",
+      "type": "Legacy",
+      "checkPNG": false,
+      "skin": "https://raw.githubusercontent.com/Titodelo/CustomSkinAPI/main/skins/{USERNAME}.png",
+      "model": "auto"
+    }
+]
